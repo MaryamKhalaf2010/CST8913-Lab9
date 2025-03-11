@@ -7,7 +7,7 @@
 | Resource Type     | Total Cost (USD) |
 |------------------|----------------|
 | Virtual Machines | $137.24         |
-| Storage         |  290.84    |
+| Storage         |  $290.84    |
 | Networking      | $$9.75         |
 | SQL Database    | $$383.14        |
 
